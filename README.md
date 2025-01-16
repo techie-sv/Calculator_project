@@ -22,6 +22,6 @@ To run this project, you need a C compiler installed on your system. For example
 1. Clone this repository to your local machine:
    ```bash
    git clone https://github.com/techie-sv/basic-calculator.git
-cd basic-calculator
-gcc calculator.c -o calculator
-./calculator
+   cd basic-calculator
+   gcc calculator.c -o calculator
+   ./calculator
